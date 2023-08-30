@@ -2,3 +2,4 @@ Login page
 Main page
 Chat Module added
 Add new functionality hide seeing notification
+Add documents, picture, and videos
