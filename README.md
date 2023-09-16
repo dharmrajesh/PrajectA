@@ -4,3 +4,5 @@ This application is used for developing a messanger
 Added new status module
 
 Added new module for your project and kindly review it and if it is useful for your project you can merge it
+
+Add new feature that is upload photos, videos, Documents
